@@ -1,6 +1,6 @@
 # SafeStreet - Community Road Safety Platform
 
-A modern React TypeScript application focused on community road safety, featuring interactive maps, real-time notifications, and user management.
+A modern web application focused on community road safety, featuring interactive maps and user management.
 
 ## 🚀 Features
 
